@@ -6,7 +6,7 @@
   ・複数のRef.Stateをトランザクションに含めた場合どうなるか？
   
   ・Notaryがエラーを出したRef.Stateのハッシュとインデックスを確認できるか？
-また、これらのファイルはcorda training(https://github.com/sbir3japan/corda-dev-traning-sbir3japan.git)に追加することが前提になっています。
+また、これらのファイルはcorda training(https://github.com/sbir3japan/corda-dev-traning-sbir3japan.git )に追加することが前提になっています。
 
 ## Note 
 **これらのコードはIOUIssueに焦点をおいているため、transferやsettleではRef.Stateは含まれません**
