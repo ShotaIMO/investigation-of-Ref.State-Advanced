@@ -37,9 +37,9 @@
   1. Run the nodes.
   2. Run PublishFlow.java
   3. Run MoveFlow.java  
-      linearIdという引数にpublishされたAddressStateのLinearIdを指定してください。 
+      ※linearIdという引数にpublishされたAddressStateのLinearIdを指定してください。 
   4. Run PublishFlow.java.(※新たなaddressを指定することを推奨します)
   5. Run MoveFlow.java 
-      linearIdという引数にpublishされたAddressStateのLinearIdを指定してください。
+      ※linearIdという引数にpublishされたAddressStateのLinearIdを指定してください。
   6. Run IOUIssueFlow.java  
   7. Errored ref.State's hash and index will be display in the node terminal window.
